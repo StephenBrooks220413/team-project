@@ -1,9 +1,14 @@
-{
-"contributors": [
-  "name": "Stephen Brooks",
-  "email": "stephenbrooks714@gmail.com",
-  "position": "web developer",
-  "organozation": "career karma",
-  "portfolio": "https://stephen-brooks.netlify.app"
- ]
-}
+   {
+      "contributors": [
+        {
+          "name": "Stephen Brooks",
+          "position": "web developer",
+          "email": "stephenbrooks714@gmail.com",
+          "portfolio": "https://stephen-brooks.netlify.app",
+          "phone": "580-309-0236",
+          "organization": "career karma",
+          "linkedin": "",
+          "github": "/StephenBrooks220413"
+        },
+      ]
+    }
